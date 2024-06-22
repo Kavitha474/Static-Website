@@ -1,0 +1,106 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.covid-page-header {
+    width: 80vw;
+    border-style: solid;
+    border-color: #0967d219;
+    border-width: 5px;
+    font-family: "Roboto";
+
+}
+
+.covid-page-heading {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.button {
+    border-radius: 9px;
+    font-size: 10px;
+
+}
+
+.covid-test-card {
+    background-color: #0967d219;
+    border-radius: 13px;
+}
+
+.covid-test-card-image {
+    height: 40px;
+    width: 40px;
+}
+
+.covid-test-card-heading {
+    font-size: 14px;
+    font-weight: 600;
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.covid-test-card-description {
+    font-size: 11px;
+    color: #707070;
+    font-family: "Roboto";
+}
+
+.heading {
+    font-size: 16px;
+    font-family: "Roboto";
+}
+
+.dry-cough-container {
+    width: 85px;
+    background-color: #3ebd93;
+    border-radius: 10px;
+    margin-left: 12px;
+}
+
+.symptom-heading {
+    font-size: 12px;
+    margin-left: 10px;
+    color: white;
+    font-weight: 500;
+}
+
+.high-fever-container {
+    width: 85px;
+    background-color: #e668a7;
+    border-radius: 10px;
+    margin-left: 25px;
+}
+
+
+.headache-container {
+    width: 85px;
+    background-color: #a368fc;
+    border-radius: 10px;
+    margin-left: 25px;
+}
+
+
+.video-card {
+    background-color: #e12d3919;
+    width: 280px;
+    border-radius: 13px;
+}
+
+.video-card-image {
+    width: 40px;
+    height: 40px;
+}
+
+.video-card-heading {
+    padding-left: 14px;
+    font-size: 15px;
+}
+
+.video-card-description {
+    font-size: 12px;
+    padding-left: 14px;
+    font-weight: 500;
+}
+
+.button {
+    border-radius: 10px;
+    margin-left: 6px;
+}
