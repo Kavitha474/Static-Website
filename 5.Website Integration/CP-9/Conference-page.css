@@ -15,7 +15,16 @@
     font-family: "Roboto";
     text-align: center;
 }
-
+.conference-title1{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+.conference-description1 {
+    font-size: 16px;
+    color: #5a7184;
+    font-family: "Roboto";
+}
 .conference-description {
     font-size: 16px;
     color: #5a7184;
@@ -33,7 +42,7 @@
 }
 
 .conference-count {
-    font-size: 15px;
+    font-size: 22px;
     padding-left: 15px;
     color: #183b56;
     font-family: "Roboto";
